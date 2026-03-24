@@ -2,3 +2,5 @@
 Here is my first repo
 
 Conflict resolution.
+
+New line added loccaly
